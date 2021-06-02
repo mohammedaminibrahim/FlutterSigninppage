@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f61a300-3152-4077-afc6-53e38f9f0539" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qxLC1xH3LSm9QZ9zdRFr528Kxc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f61a300-3152-4077-afc6-53e38f9f0539" name="Default Changelist" comment="" />
+      <created>1618016162884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618016162884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="181" y="198" key="FileChooserDialogImpl" timestamp="1621863746986">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="181" y="198" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621863746986" />
+    <state width="1491" height="174" key="GridCell.Tab.0.bottom" timestamp="1622652161655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="174" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622652161655" />
+    <state width="1491" height="174" key="GridCell.Tab.0.center" timestamp="1622652161653">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="174" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622652161653" />
+    <state width="1491" height="174" key="GridCell.Tab.0.left" timestamp="1622652161653">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="174" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622652161653" />
+    <state width="1491" height="174" key="GridCell.Tab.0.right" timestamp="1622652161654">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1491" height="174" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622652161654" />
+    <state x="93" y="93" width="1350" height="638" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1622627815131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.824@0.0.1536.824" timestamp="1622627815131" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1622631307749">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1622631307749" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1622568817569">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1622568817569" />
+  </component>
+</project>
